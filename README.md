@@ -2,10 +2,6 @@
 
 A real-time face recognition-based attendance system built using Python and OpenCV. This project uses a webcam to recognize registered faces and automatically marks attendance in a CSV file.
 
-## 👩‍💻 Author
-
-# Shreya Kaushal
-
 ---
 
 ## 📌 About the Project
@@ -40,7 +36,7 @@ The project also includes SMS notification functionality for attendance updates.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 face-recognition-attendance/
@@ -54,13 +50,56 @@ face-recognition-attendance/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ---
 
-## ▶️ Command to Run the Code
+## Command to Run the Code
 
 Run the main attendance system using:
 
 ```bash
 python attendance_sms_notification.py
+```
 
+Press **Q** to quit the camera.
+
+---
+
+## Attendance Records
+
+Attendance records are stored in:
+
+`attendance.csv`
+
+The CSV file contains attendance information recorded by the face recognition system.
+
+---
+
+## SMS Notification
+
+The project includes SMS notification functionality for sending attendance updates.
+
+For security reasons, API keys, passwords, and other sensitive credentials should not be uploaded to GitHub.
+
+---
+
+## Author
+
+**Shreya Kaushal**
+
+GitHub: https://github.com/Shreya1207851
+
+---
+
+## Future Improvements
+
+- Add a web-based dashboard
+- Add multiple user registration
+- Add database integration
+- Add email notifications
+- Improve face recognition accuracy
+- Add an admin panel
+- Generate attendance reports
+- Add monthly and yearly attendance analytics
+- Add support for multiple cameras
