@@ -103,3 +103,6 @@ GitHub: https://github.com/Shreya1207851
 - Generate attendance reports
 - Add monthly and yearly attendance analytics
 - Add support for multiple cameras
+
+  ---
+  Note: Add your registered face image as Shreya.jpg in the project folder before running the application.
