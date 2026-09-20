@@ -96,7 +96,7 @@ For security reasons, API keys, passwords, and other sensitive credentials shoul
 - Add monthly and yearly attendance analytics
 - Add support for multiple cameras
 
-👩‍💻## Author
+👩‍💻 Author
 
 **Shreya Kaushal**
 
