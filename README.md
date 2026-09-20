@@ -84,14 +84,6 @@ For security reasons, API keys, passwords, and other sensitive credentials shoul
 
 ---
 
-## Author
-
-**Shreya Kaushal**
-
-GitHub: https://github.com/Shreya1207851
-
----
-
 ## Future Improvements
 
 - Add a web-based dashboard
@@ -104,5 +96,11 @@ GitHub: https://github.com/Shreya1207851
 - Add monthly and yearly attendance analytics
 - Add support for multiple cameras
 
+👩‍💻## Author
+
+**Shreya Kaushal**
+
+GitHub: https://github.com/Shreya1207851
+
   ---
-  Note: Add your registered face image as Shreya.jpg in the project folder before running the application.
+**Note**: Add your registered face image as Shreya.jpg in the project folder before running the application.
